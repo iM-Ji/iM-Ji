@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iM-Ji
 - 👀 I’m interested in Sustainable Development and Agriculture Innovations
-- 🌱 I’m currently learning AVR Architecture
+- 🌱 I’m currently learning AI for Computer Vision and Full Stack Development
 - 💞️ I’m looking to collaborate on the future
 - 📫 How to reach me [...](https://www.linkedin.com/in/michael-jibrell-escolano-4144532a1/)
 - 😄 Pronouns: he/him
